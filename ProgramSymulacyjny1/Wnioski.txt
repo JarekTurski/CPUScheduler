@@ -1,9 +1,0 @@
-Przeprowadzono 4 symulacje dla algorytmów FCFS, SJF w wersjach z otwart¹ i zamkniêt¹ pul¹ procesów. 
-Plikiem wsadowym dla programu jest "ProcessList1.txt".
-Wyniki dzia³ania programu znajduj¹ siê w pliku "Outputdata.txt". 
-Dla wersji z otwart¹ pul¹ procesów oprócz pliku wsadowego dodano proces o nazwie "12", którego czas przyjœcia wynosi 12ms,a czas wykonywania 5ms. Bardziej efektywny jest algorytm SJF, gdy¿ œrednie czasy przetwarzania oraz oczekiwania s¹ sporo krótsze od wyników algorytmu FCFS- odpowiednio o ok 10ms i 5ms. 
-Dla algorytmów z zamkniêta pul¹ procesów przepowadzono symulacjê dla danych z pliku wsadowego. Tutaj równie¿ bardziej wydajny jest algorytm SJF, którego œredni czas przetwarzania: 19ms, a œredni czas oczekiwania: 13,36ms by³ krótszy odpowiednio o ok 9ms i 9,5ms.
-
-Na podstawie tej symulacji mo¿na stwierdziæ, ¿e SJF jest bardziej optymalny, gdy¿ umieszczenie krótkiego procesu przed d³ugim w wiêkszym stopniu zmniejsza czas oczekiwania krótkiego procesu ni¿ zwiêksza czas oczekiwania procesu d³ugiego. Natomiast FCFS w sytuacji, gdy d³ugi proces przychodzi pierwszy przydziela mu procesor i wymusza oczekiwanie krótszego procesu, czyli œredni czas oczekiwania siê znacz¹co wyd³u¿a.
-
-
