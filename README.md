@@ -1,2 +1,4 @@
-Program 1 - algorymty FCFS oraz SJF
-Program 2 - algorytm priorytetowy
+Program 1 - algorytmy FCFS oraz SJF
+
+
+Program 2 - algorytm priorytetowy z postarzaniem
