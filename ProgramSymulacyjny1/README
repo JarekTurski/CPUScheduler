@@ -1,3 +1,4 @@
 Program symulacyjny prezentuje algorytmy szeregowania procesów w kolejce do procesora. 
 Zaimplementowano 2 algorytmy: SJF oraz FCFS w dwóch wariantach z otwartą i zamkniętą pulą procesów. 
-Program pobiera dane z pliku wsadowego i dla nich generuje wykres Gantta, dane statystyczne oraz umożliwia zapis danych do pliku.  
+Program pobiera dane z pliku wsadowego- ProcessList1.txt (kolumny kolejno od lewej: nr procesu, czas przyjścia, czas trwania) 
+i dla nich generuje wykres Gantta, dane statystyczne oraz umożliwia zapis danych do pliku.  
