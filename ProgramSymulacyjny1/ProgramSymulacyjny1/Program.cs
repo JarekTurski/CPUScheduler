@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace ProgramSymulacyjny1
+namespace CPUSchedulerPart1
 {
     class Program
     {
@@ -10,7 +10,7 @@ namespace ProgramSymulacyjny1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MainView());
         }
     }
 }

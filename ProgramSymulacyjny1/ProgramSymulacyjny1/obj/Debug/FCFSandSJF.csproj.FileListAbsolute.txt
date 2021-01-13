@@ -1,0 +1,10 @@
+C:\Users\Jarek\source\Done\ProgramSymulacyjny1\ProgramSymulacyjny1\bin\Debug\CPUScheduler_part1.exe.config
+C:\Users\Jarek\source\Done\ProgramSymulacyjny1\ProgramSymulacyjny1\bin\Debug\CPUScheduler_part1.exe
+C:\Users\Jarek\source\Done\ProgramSymulacyjny1\ProgramSymulacyjny1\bin\Debug\CPUScheduler_part1.pdb
+C:\Users\Jarek\source\Done\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\FCFSandSJF.csprojAssemblyReference.cache
+C:\Users\Jarek\source\Done\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\CPUScheduler_part1.Properties.Resources.resources
+C:\Users\Jarek\source\Done\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\FCFSandSJF.csproj.GenerateResource.cache
+C:\Users\Jarek\source\Done\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\FCFSandSJF.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\source\Done\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\CPUScheduler_part1.exe
+C:\Users\Jarek\source\Done\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\CPUScheduler_part1.pdb
+C:\Users\Jarek\source\Done\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\CPUSchedulerPart1.MainView.resources
