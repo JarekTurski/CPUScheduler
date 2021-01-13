@@ -1,4 +1,4 @@
-Program 1 - algorytmy FCFS oraz SJF
+Repository contains two projects- simulations of CPU scheduler.
 
-
-Program 2 - algorytm priorytetowy z postarzaniem
+CPUScheduler1 - algorithms FCFS and SJF
+CPUScheduler2 - priority scheduling algorithm
