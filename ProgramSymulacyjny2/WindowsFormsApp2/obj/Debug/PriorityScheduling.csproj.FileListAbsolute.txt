@@ -1,0 +1,10 @@
+C:\Users\Jarek\source\Done\ProgramSymulacyjny2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Jarek\source\Done\ProgramSymulacyjny2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Jarek\source\Done\ProgramSymulacyjny2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Jarek\source\Done\ProgramSymulacyjny2\WindowsFormsApp2\obj\Debug\PriorityScheduling.csprojAssemblyReference.cache
+C:\Users\Jarek\source\Done\ProgramSymulacyjny2\WindowsFormsApp2\obj\Debug\CPUSchedulerPart2.MainView.resources
+C:\Users\Jarek\source\Done\ProgramSymulacyjny2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Jarek\source\Done\ProgramSymulacyjny2\WindowsFormsApp2\obj\Debug\PriorityScheduling.csproj.GenerateResource.cache
+C:\Users\Jarek\source\Done\ProgramSymulacyjny2\WindowsFormsApp2\obj\Debug\PriorityScheduling.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\source\Done\ProgramSymulacyjny2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Jarek\source\Done\ProgramSymulacyjny2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

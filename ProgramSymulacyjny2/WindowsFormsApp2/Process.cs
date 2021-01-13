@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp2
+﻿namespace CPUSchedulerPart2
 {
     class Process
     {
