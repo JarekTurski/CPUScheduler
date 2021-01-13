@@ -1,0 +1,14 @@
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\bin\Debug\ProgramSymulacyjny1.exe.config
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\bin\Debug\ProgramSymulacyjny1.exe
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\bin\Debug\ProgramSymulacyjny1.pdb
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\ProgramSymulacyjny1.csprojAssemblyReference.cache
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\ProgramSymulacyjny1.Properties.Resources.resources
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\ProgramSymulacyjny1.csproj.GenerateResource.cache
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\ProgramSymulacyjny1.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\ProgramSymulacyjny1.csproj.CopyComplete
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\ProgramSymulacyjny1.exe
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\ProgramSymulacyjny1.pdb
+C:\Users\Jarek\source\repos\ProgramSymulacyjny1\ProgramSymulacyjny1\obj\Debug\ProgramSymulacyjny1.Form1.resources
