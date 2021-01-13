@@ -1,4 +1,4 @@
-Repository contains two projects- simulations of CPU scheduler.
+Repository contains two projects- simulations of CPU scheduling algorithms.
 
 CPUScheduler1 - algorithms FCFS and SJF
 CPUScheduler2 - priority scheduling algorithm
